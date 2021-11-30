@@ -2,8 +2,6 @@
 # This is very experimental so use at your own risk
 # make a backup of whitelist.json as it MAY ACIDENTALLY ERASE FILES
 # more testing is needed. 
-# right now it can only add names to whitelist
-# usage minecraft_whitelist_edit.py -u Username_To_Add
 
 import json
 from requests_cache import CachedSession
